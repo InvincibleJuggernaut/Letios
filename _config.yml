@@ -13,10 +13,11 @@ author: InvincibleJuggernaut
 
 navbar-links:
   About Me: "aboutme"
+  Author's home: "https://github.com/InvincibleJuggernaut"
   Liked this theme ?:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/InvincibleJuggernaut"
+  
 
 # --- Logo --- #
 
