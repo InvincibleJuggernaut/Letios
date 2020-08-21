@@ -10,17 +10,12 @@ I prefer to keep it short. You are here for the content, not my story.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
+By the way, if you liked this blog's theme, you can visit the following links for learning how to set up yours:
 
+- Beautiful Jekyll: "https://beautifuljekyll.com"
+- Learn markdown: "https://www.markdowntutorial.com/"
 
-
-
-
-
-By the way, if you wish you can collaborate with me on some work/project <a href="https://github.com/InvincibleJuggernaut">here</a>.
 
 
 
