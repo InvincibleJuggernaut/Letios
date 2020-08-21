@@ -13,8 +13,8 @@ I prefer to keep it short. You are here for the content, not my story.
 
 By the way, if you liked this blog's theme, you can visit the following links for learning how to set up yours:
 
-- Beautiful Jekyll: "https://beautifuljekyll.com"
-- Learn markdown: "https://www.markdowntutorial.com/"
+- <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
+- <a href="https://www.markdowntutorial.com/">Learn markdown</a>
 
 
 
