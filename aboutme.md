@@ -9,8 +9,6 @@ I prefer to keep it short. You are here for the content, not my story.
 
 <br>
 <br>
-<br>
-
 By the way, if you liked this blog's theme, you can visit the following links for learning how to set up yours:
 
 - <a href="https://beautifuljekyll.com">Beautiful Jekyll</a>
