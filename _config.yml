@@ -89,6 +89,7 @@ excerpt_length: 50
 navbar-col: "#000000"
 navbar-text-col: " #FFFFFF"
 navbar-border-col: "#DDDDDD"
+navbar-link-col: "#FFFFFF"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#BFBFBF"
