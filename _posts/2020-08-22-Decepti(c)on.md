@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Decepti(c)on
+gh-repo: InvincibleJuggernaut/Letios
 subtitle: The art of deceiving statistics
 ---
 
