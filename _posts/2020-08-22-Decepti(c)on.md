@@ -4,8 +4,7 @@ title: Decepti(c)on
 subtitle: The art of deceiving statistics
 ---
 
-![](assets/img/Post 1/xkcd_Statistics.png)
- <img src="assets/img/Post 1/xkcd_Statistics.png">
+![](Letios/assets/img/Post 1/xkcd_Statistics.png){: .mx-auto.d-block :}
 
 It might seem like a strange topic to write a post about. But, its something that needs to be talked about. It has many contexts, but the one I chose for today is how the statistical graphs, pie charts, bar graphs that are meant cruch the data in a viewer-friendly manner are often used to deceive us in to believing whatever suits the day's agenda.
 
