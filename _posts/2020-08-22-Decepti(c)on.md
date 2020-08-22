@@ -11,39 +11,39 @@ It might seem like a strange topic to write a post about. But, its something tha
 
 One common way to spread a completely different message than the actual one is to play around with y-axis(horizontal axis). One way is to start the y-axis from just around the least number in the data and then increment it unequally or at a very small rate such that the biggest value in the data looks visually quite high. Take a look at the image below :
 
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Bar_graph_2a.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Bar_graph_2a.png){: .mx-auto.d-block :}
 This seems to be an attempt to convince the viewers that interest rates have been increasing sky-fold every year or so. Notice that the y-axis starts at 3.140 and then increments at a rate of 0.002, which is clearly quite small compared to the starting value. This presents a skewed visual, good enough to sway the public opinion of people who let their guard down. If the above graph were to be adjusted to the right way, it turns out to be something like this :
 
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Bar_graph_2b.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Bar_graph_2b.png){: .mx-auto.d-block :}
 The correct graph shows that the interest rates haven't increased as drastically as they were being showed in the previous graph. One could say that have remained fairly constant.
 <br>
 
 Another excellent example is that of a graph revealing the "truth of hike in petroleum prices". I am puzzled ! 
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Bar_graph_1.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Bar_graph_1.png){: .mx-auto.d-block :}
 
 <br>
 Take this too, will y'all ? Note that a difference of 5 inches can be graphically tweaked to deliver such a result ! The y-axis starts at 5 feet and increments at a rate of 1 inch only to produce such a graph.
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Bar_graph_3.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Bar_graph_3.png){: .mx-auto.d-block :}
 
 <br>
 Take this example of a pie chart depicting the results of 2012 Presidential Elections from the ever controversial: The Fox News.
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Pie_chart_1.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Pie_chart_1.png){: .mx-auto.d-block :}
 The problem with this one is that a pie chart should be used only to depict parts of a whole and all the parts must add upto 100%. 
 <br>
 
 Another example with correct adding up of percentages but wrong visuals (because a picture says a lot more than words ?)
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Pie_chart_3.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Pie_chart_3.png){: .mx-auto.d-block :}
 The above graph shows 74% as greater than 3/4 of the total area, 21% greater than 1/4 of the area and 5& almost tending to 15% mark.
 
 <br>
 
 Another bad example combined with crappy labelling of the data :
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/Pie_chart_2.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Pie_chart_2.png){: .mx-auto.d-block :}
 <br>
 
 A very common example is YouTube asking for users' feedback on their services where none of the options has a negative view. The worst you can vote is "Not good"
 
-![](https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/YouTube.png){: .mx-auto.d-block :}
+![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/YouTube.png){: .mx-auto.d-block :}
 
 <br>
 <br>
