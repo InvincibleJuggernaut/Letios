@@ -37,14 +37,14 @@ Take this example of a pie chart depicting the results of 2012 Presidential Elec
 The problem with this one is that a pie chart should be used only to depict parts of a whole and all the parts must add upto 100%. 
 <br>
 
-Another example with correct adding up of percentages but wrong visuals (because a picture says a lot more than words ?)
+Another example with correct adding up of percentages but wrong visuals. (because a picture says a lot more than words ?)
 
 ![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Pie_chart_3.png){: .mx-auto.d-block :}
 
 The above graph shows 74% as greater than 3/4 of the total area, 21% greater than 1/4 of the area and 5& almost tending to 15% mark.
 <br>
 
-Another bad example combined with crappy labelling of the data :
+Another bad representation combined with crappy labelling of the data :
 
 ![](https://raw.githubusercontent.com/InvincibleJuggernaut/Letios/master/assets/img/Post%201/Pie_chart_2.png){: .mx-auto.d-block :}
 
