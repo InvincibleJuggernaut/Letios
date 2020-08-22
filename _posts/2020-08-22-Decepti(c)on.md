@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Decepti(c)on
+image: assets/img/Post 1/xkcd_Statistics.png
 subtitle: The art of deceiving statistics
 ---
 <p align="center">
