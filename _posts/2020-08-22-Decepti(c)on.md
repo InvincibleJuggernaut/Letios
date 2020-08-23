@@ -2,8 +2,8 @@
 layout: post
 title: Decepti(c)on
 gh-repo: InvincibleJuggernaut/Letios
-cover-img: https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/xkcd_thumbnail.png
-share-img: https://github.com/InvincibleJuggernaut/Letios/blob/master/assets/img/Post%201/xkcd_thumbnail.png
+cover-img: assets/img/Post 1/xkcd_thumbnail.png
+share-img: assets/img/Post 1/xkcd_thumbnail.png
 tags: [Statistics, Deception]
 subtitle: The art of deceiving statistics
 ---
