@@ -4,7 +4,7 @@ title: About Me
 subtitle: Why you'd want to go on a date with me
 ---
 
-This is just a blog where I can vent out my ramblings and write about the daily mundane stuff. 
+This is just a blog where I vent out my ramblings and write about the daily mundane stuff. 
 I prefer to keep it short. You are here for the content, not my story. 
 
 <br>
